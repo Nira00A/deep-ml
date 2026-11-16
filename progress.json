@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:22:25.142Z",
+  "generated_at": "2026-11-16T14:36:29.716Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -195,6 +195,19 @@
       "last_pushed_at": "2026-11-16T14:22:25.496Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:1273": {
+      "kind": "problem",
+      "id": "1273",
+      "title": "Tensor Puzzle: Upper-Triangular Ones Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1273",
+      "path": "problems/1273-tensor-puzzle-upper-triangular-ones-matrix",
+      "first_solved_at": "2026-11-16T14:36:30.505Z",
+      "last_pushed_at": "2026-11-16T14:36:30.505Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
